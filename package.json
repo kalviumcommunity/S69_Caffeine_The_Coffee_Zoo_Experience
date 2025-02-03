@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "s69_caffeine_the_coffee_zoo_experience": "file:"
+  }
 }
