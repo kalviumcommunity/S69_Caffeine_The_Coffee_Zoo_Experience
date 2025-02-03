@@ -16,7 +16,7 @@ Caffeine: The Coffee Zoo Experience is an interactive and immersive platform tha
 5. **Personalized Recommendations:**  
    - Suggest coffee types based on a user’s mood, activity, or taste preferences.  
 6. **Social Sharing:**  
-   - Share coffee zoo discoveries and recipes with friends.  
+   - Share coffee zoo discoveries and recipes with friends.    
 
 **Tech Stack:**  
 - **Frontend:** HTML, CSS, JavaScript, React.js 
